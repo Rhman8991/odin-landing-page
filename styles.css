@@ -145,3 +145,26 @@ body {
     margin-top: 10px;
 }
 
+.call-to-action {
+    margin: 64px 160px;
+    padding: 34px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882f6;
+    border-radius: 10px;
+}
+
+.cta-text {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.cta-btn {
+    padding: 8px 24px;
+    color: #e5e7eb;
+    font-size: 18px;
+    background-color: #3882f6;
+    border: 2px solid #e5e7eb;
+    border-radius: 10px;
+}
