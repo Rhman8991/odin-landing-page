@@ -170,6 +170,7 @@ body {
 }
 
 .footer {
+    padding: 32px 0;
     background-color: #1f2937;
     color: #f9faf8;
     font-size: 18px;
