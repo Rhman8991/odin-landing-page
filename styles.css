@@ -168,3 +168,10 @@ body {
     border: 2px solid #e5e7eb;
     border-radius: 10px;
 }
+
+.footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    font-size: 18px;
+    text-align: center;
+}
